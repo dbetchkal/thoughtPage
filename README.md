@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# A Collection of Thoughts
+![Image](https://www.adn.com/resizer/xbmeJzG-fehUYkCZPdr98YLm3aY=/600x0/s3.amazonaws.com/arc-wordpress-client-uploads/adn/wp-content/uploads/2016/07/28170037/160717-denali-soundscapes-0085.jpg?token=bar)
 
-You can use the [editor on GitHub](https://github.com/dbetchkal/thoughtPage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<a href="http://gis.stackexchange.com/questions/8650/measuring-accuracy-of-latitude-and-longitude">what do the decimal places in a coordinate mean?</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<a href="http://nautil.us/issue/101/in-our-nature/these-are-their-brains-on-silence">These Are Their Brains on Silence </a> by Daniel A. Gross, Nautilus magazine 2015-01-01
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dbetchkal/thoughtPage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+>"Rather than climbing up a ladder seeking perfection, we are unfolding into wholeness. We are not trying to transcend or vanquish the difficult energies that we consider wrong—the fear, shame, jealousy, anger. This only creates a shadow that fuels our sense of deficiency. Rather, we are learning to turn around and embrace life in all its realness—broken, messy, vivid, alive." 
+> <br> <br>           <font size="6">Carl Jung</font> 
