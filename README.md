@@ -8,3 +8,5 @@
 
 >"Rather than climbing up a ladder seeking perfection, we are unfolding into wholeness. We are not trying to transcend or vanquish the difficult energies that we consider wrong—the fear, shame, jealousy, anger. This only creates a shadow that fuels our sense of deficiency. Rather, we are learning to turn around and embrace life in all its realness—broken, messy, vivid, alive." 
 > <br> <br>           <font size="1">Carl Jung</font> 
+
+$$ 5 + 5 $$
